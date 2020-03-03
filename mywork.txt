@@ -1,0 +1,20 @@
+My associate id:
+845031
+Other team members:
+845066,844956,844957
+Team lead:
+845031
+My Role in team:
+1.To Develop homepage and contact us page validation for contactform  and integration
+My Development files:
+1.home.component.html
+2.conatct.component.html
+3.contact.component.ts
+4.app.component.html
+I was strong in:
+1.Reactiveforms
+2.Css
+3.Bootstrap
+4.Validations in forms
+Feedback:
+It's a good concept to work with the team and to practice.
